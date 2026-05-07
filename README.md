@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Vatsal Bokarvadiya</h1>
 
 <h3 align="center">
-🚀 Aspiring Full Stack Developer | 💻 Python Learner | 🎨 Creative Designer
+🚀 DevOps Learner | 📊 Data Science Enthusiast | 🎨 UI/UX Developer
 </h3>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Welcome+to+my+GitHub+Profile!;Full+Stack+Developer;Python+Programmer;UI%2FUX+Designer;Always+Learning+New+Things" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Welcome+to+my+GitHub+Profile!;DevOps+Learner;Data+Science+Enthusiast;UI%2FUX+Developer;Always+Learning+New+Things" />
 </p>
 
 ---
@@ -13,12 +13,12 @@
 # 🚀 About Me
 
 - 🎓 IT Student passionate about technology
-- 💻 Learning Full Stack Web Development
-- 🐍 Python Programmer and Problem Solver
-- 🤖 Interested in AI, Machine Learning & DevOps
-- 🎨 Love UI/UX Design and Creative Projects
-- 🔥 Building real-world projects and improving daily
-- 🌱 Currently learning Cloud & Advanced Development
+- 📊 Learning Data Science and Machine Learning
+- ☁️ Exploring DevOps tools and Cloud Computing
+- 🎨 UI/UX Designer who loves creative interfaces
+- 💻 Passionate about coding and real-world projects
+- 🔥 Improving skills every day through practice
+- 🌱 Currently learning scalable systems and automation
 
 ---
 
